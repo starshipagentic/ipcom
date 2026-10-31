@@ -1,2 +1,3 @@
 # ipcom
-Placeholder repo for the ipcom project
+
+Placeholder package. The `ipcom` name is reserved for a future project.
